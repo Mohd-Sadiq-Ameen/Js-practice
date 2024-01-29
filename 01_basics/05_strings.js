@@ -12,3 +12,5 @@ console.log("Name is " + name +  " and age is " + age + "\n2nd line")
 console.log(`Name is ${name} and age is ${age} `)
 console.log(`Ready`)
 
+.split(separator,limit)  // split the sentence into array of strings eg : 
+.trim                   // to remove spaces in a string eg: ( string   ) => (string)
