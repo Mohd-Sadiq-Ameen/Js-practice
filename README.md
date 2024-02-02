@@ -1,3 +1,4 @@
-# Js-learning + practice + notes
+# Js-learning + practice + notes + projects
 
- for practicing javascript and learn it
+ for practicing javascript & learning it &
+ doing projects on the go.
