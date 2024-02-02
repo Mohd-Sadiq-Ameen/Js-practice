@@ -1,0 +1,44 @@
+a {
+
+    color: black;
+}
+
+.big-container {
+    text-align: center;
+    justify-content: center;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.box {
+    border: 3px solid black;
+    width: 100px;
+    height: 100px;
+    margin-right: 10px;
+
+}
+
+#grey {
+    background-color: grey;
+}
+
+#white {
+    background-color: white;
+}
+
+#peru {
+    color: peru;
+    background-color: peru;
+}
+
+#yellow {
+    background-color: yellow;
+}
+
+footer {
+    margin-top: 50px;
+    font-size: 20px;
+}
